@@ -5,8 +5,8 @@
             "capabilities": {
                 "audioIn": true,
                 "audioOut": true,
-                "videoIn": false,
-                "videoOut": false,
+                "videoIn": true,
+                "videoOut": true,
                 "screenSharing": false
             },
             "iframeCapabilities": {
